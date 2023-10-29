@@ -1,6 +1,18 @@
 ---
 layout: default
 ---
+<h3 align="center">
+	<img src="./thumbnail.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/DuckHats/DuckHats/main/assets/misc/transparent.png" height="30" width="0px"/>
+	DuckHats for <a href="https://github.com/DuckHats">Github Profile</a>
+</h3>
+
+<p align="center">
+	<a href="https://github.com/DuckHats/github-readme-stats/stargazers"><img src="https://img.shields.io/github/stars/DuckHats/github-readme-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/DuckHats/github-readme-stats/issues"><img src="https://img.shields.io/github/issues/DuckHats/github-readme-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/DuckHats/github-readme-stats/contributors"><img src="https://img.shields.io/github/contributors/DuckHats/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
+
 <h1> Hey there! We are Duckhats.</h1>
 
 <h2> 👨🏻‍💻 &nbsp;About us </h2>
@@ -37,7 +49,7 @@ layout: default
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Duckhats.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="duckhats@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duckhats@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="duck4hats@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duck4hats@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [DuckHats](https://github.com/DuckHats)

@@ -19,6 +19,25 @@
 - 🌱 &nbsp; Learning more about coding and new tecnologies.
 - ✍️ &nbsp; Pursuing electronics and cibersecurity as hobbies/side hustles.
 
+<h3> 👽 &nbsp;Members </h3>
+<div align="center">
+    <a href="https://github.com/Gerijacki">
+        <img src="./thumbnail.png" width="100" alt="Gerijacki" />
+    </a>
+    <a href="https://github.com/Gerijacki">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerijacki&theme=2077" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerijacki&theme=2077" height="180em" /> 
+</div>
+
+<div align="center">
+    <a href="https://github.com/SergiGiribet">
+        <img src="./thumbnail.png" width="100" alt="SergiGiribet" />
+    </a>
+      <a href="https://github.com/SergiGiribet">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergiGiribet&theme=radical" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergiGiribet&theme=radical" height="180em" /> 
+</div>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -39,15 +58,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
-
-<!-- ![DuckHats GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckHats&show_icons=true&theme=transparent)
-
-<a href="https://github.com/DuckHats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuckHats&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckHats&theme=buefy&layout=compact" />
-</a> -->
 
 <br/>
 
