@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h1> Hey there! We are Duckhats.</h1>
 
 <h2> 👨🏻‍💻 &nbsp;About us </h2>
