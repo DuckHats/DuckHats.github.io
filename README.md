@@ -1,8 +1,7 @@
-<h3 align="center">
-    <img src="./thumbnail.png" width="100" alt="Logo"/><br/>
-    <img src="URL_de_la_Imagen_Transparente" height="30" width="0px"/>
-    DuckHats for <a href="https://github.com/DuckHats">Github Profile</a>
-</h3>
+<p align="center">
+  <img src="https://github.com/DuckHats.png" width="100" alt="Logo"/><br/>
+  Hi 👋, we are <a href="https://github.com/DuckHats">DuckHats</a>
+</p>
 
 <p align="center">
     <a href="https://github.com/DuckHats/stargazers"><img src="https://img.shields.io/github/stars/DuckHats/DuckHats.github.io?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
