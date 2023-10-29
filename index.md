@@ -24,15 +24,14 @@
     <h3><a href="https://github.com/Gerijacki">Gerijacki</a></h3>
     <a href="https://github.com/Gerijacki">
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerijacki&theme=2077" height="180em" />
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerijacki&theme=2077" height="180em" /> 
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerijacki&theme=2077" height="180em" </a>
 </div>
 
 <div align="center">
     <h3><a href="https://github.com/SergiGiribet">SergiGiribet</a></h3>
-    </a>
       <a href="https://github.com/SergiGiribet">
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergiGiribet&theme=radical" height="180em" />
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergiGiribet&theme=radical" height="180em" /> 
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergiGiribet&theme=radical" height="180em" </a> 
 </div>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
