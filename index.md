@@ -61,7 +61,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Us </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Duckhats.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://DuckHats.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-www.Duckhats.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="duckhats@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duckhats@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
