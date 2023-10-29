@@ -32,6 +32,8 @@
 
 <br/>
 
+![DuckHats GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckHats&show_icons=true&theme=transparent)
+
 <a href="https://github.com/DuckHats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuckHats&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckHats&theme=buefy&layout=compact" />
