@@ -5,9 +5,10 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/DuckHats/github-readme-stats/stargazers"><img src="https://img.shields.io/github/stars/DuckHats/github-readme-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/DuckHats/github-readme-stats/issues"><img src="https://img.shields.io/github/issues/DuckHats/github-readme-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/DuckHats/github-readme-stats/contributors"><img src="https://img.shields.io/github/contributors/DuckHats/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/DuckHats/stargazers"><img src="https://img.shields.io/github/stars/DuckHats/DuckHats.github.io?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/DuckHats/DuckHats.github.io/DuckHats.github.io"><img src="https://img.shields.io/github/DuckHats.github.io/DuckHats/DuckHats.github.io?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/DuckHats/DuckHats.github.io/contributors"><img src="https://img.shields.io/github/contributors/DuckHats/DuckHats.github.io?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+
 </p>
 
 ## Hey there! We are Duckhats.
