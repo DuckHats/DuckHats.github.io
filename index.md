@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="URL_de_la_Imagen_del_Logo" width="100" alt="Logo"/><br/>
+    <img src="./thumbnail.png" width="100" alt="Logo"/><br/>
     <img src="URL_de_la_Imagen_Transparente" height="30" width="0px"/>
     DuckHats for <a href="https://github.com/DuckHats">Github Profile</a>
 </h3>
