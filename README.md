@@ -1,4 +1,14 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<h3 align="center">
+	<img src="./thumbnail.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/DuckHats/DuckHats/main/assets/misc/transparent.png" height="30" width="0px"/>
+	DuckHats for <a href="https://github.com/DuckHats">Github Profile</a>
+</h3>
+
+<p align="center">
+	<a href="https://github.com/DuckHats/github-readme-stats/stargazers"><img src="https://img.shields.io/github/stars/DuckHats/github-readme-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/DuckHats/github-readme-stats/issues"><img src="https://img.shields.io/github/issues/DuckHats/github-readme-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/DuckHats/github-readme-stats/contributors"><img src="https://img.shields.io/github/contributors/DuckHats/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
 
 <h2> Hey there! We are Duckhats.</h2>
 
@@ -32,12 +42,12 @@
 
 <br/>
 
-![DuckHats GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckHats&show_icons=true&theme=transparent)
+<!-- ![DuckHats GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckHats&show_icons=true&theme=transparent)
 
 <a href="https://github.com/DuckHats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuckHats&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckHats&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 <br/>
 
