@@ -49,7 +49,7 @@
 
 ### 🤝🏻 Connect with Us
 <p align="center">
-    <a href="https://DuckHats.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-www.Duckhats.com-blue?style=flat-square&logo=google-chrome"></a>
+    <a href="https://DuckHats.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-www.DuckHats.github.io-blue?style=flat-square&logo=google-chrome"></a>
     <a href="mailto:duck4hats@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duck4hats@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
