@@ -17,7 +17,7 @@
 - ✍️ Pursuing electronics and cybersecurity as hobbies/side hustles.
 
 <!-- Sección de Proyectos -->
-<h2 align="center">Our Projects</h2>
+<h2 align="center">Our Projects 👾</h2>
 
 <!-- Proyecto 1 -->
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -27,7 +27,8 @@
     <a href="DuckHats.github.io/eduQuack">Ver Proyecto</a>
   </div>
   <div style="flex: 1;">
-    <img src="https://github.com/DuckHats/readme-palette/blob/main/eduQuack.jpg" alt="eduQuack" width="200px" style="border-radius: 50%;" />
+    <img src="./eduQuack.jpg" alt="eduQuack" width="200px" style="border-radius: 50%;" />
+
   </div>
 </div>
 

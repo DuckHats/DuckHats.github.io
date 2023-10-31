@@ -14,7 +14,7 @@ Descobreix eduQuack, la plataforma educativa que transformarà la teva experièn
 
 ## Què és eduQuack? 🚀
 <p align="center">
-  <img src="https://github.com/DuckHats/readme-palette/blob/main/eduQuack.jpg" width="100" alt="Logo"/>
+  <img src="./eduQuack.jpg" width="100" alt="Logo"/>
 </p>
 
 eduQuack és molt més que una intranet escolar. És una comunitat digital dissenyada per a tu:
@@ -51,7 +51,9 @@ Treballa en equip, comparteix recursos i fomenta un aprenentatge col·laboratiu 
 
 Registra't ara i descobreix un món de possibilitats educatives. Junts, estem transformant l'educació per a un futur brillant.
 
-[¡Registra't Ara!](#)
+<p align="center">
+  <a href="https://github.com/DuckHats">Registra't ara</a>
+</p>
 
 ---
 
