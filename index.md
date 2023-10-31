@@ -24,7 +24,7 @@
   <div style="flex: 1; text-align: right; padding-right: 20px;">
     <h3><a href="https://github.com/DuckHats/eduQuack">eduQuack</a></h3>
     <p>Interactive educational intranet developed to facilitate student-teacher interaction and implement all the facilities for both!</p>
-    <a href="DuckHats.github.io/eduQuack">Ver Proyecto</a>
+    <a href="./eduQuack">Ver Proyecto</a>
   </div>
   <div style="flex: 1;">
     <img src="./eduQuack.jpg" alt="eduQuack" width="200px" style="border-radius: 50%;" />
