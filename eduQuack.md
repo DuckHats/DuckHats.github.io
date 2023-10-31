@@ -13,6 +13,7 @@ description: La plataforma educativa que transformarà la teva experiència esco
 Descobreix eduQuack, la plataforma educativa que transformarà la teva experiència escolar! Connecta, col·labora i aprèn en un entorn innovador i segur.
 
 ## Què és eduQuack? 🚀
+
 <p align="center">
   <img src="./eduQuack.jpg" width="100" alt="Logo"/>
 </p>
@@ -59,5 +60,7 @@ Registra't ara i descobreix un món de possibilitats educatives. Junts, estem tr
 
 ¿Preguntes? Contacta'ns a [Duck4hats@gmail.com](mailto:duck4hats@gmail.com) o visita [DuckHats.github.io](https://DuckHats.github.com). Transformem l'educació junts! 🌟
 
+<p align="center">
+  <a href="./">Tornar Enrere</a>
+</p>
 
-[back](./)
