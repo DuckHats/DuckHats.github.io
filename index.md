@@ -16,6 +16,22 @@
 - 🌱 Learning more about coding and new technologies.
 - ✍️ Pursuing electronics and cybersecurity as hobbies/side hustles.
 
+<!-- Sección de Proyectos -->
+<h2 align="center">Our Projects</h2>
+
+<!-- Proyecto 1 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
+    <h3><a href="https://github.com/DuckHats/eduQuack">eduQuack</a></h3>
+    <p>Interactive educational intranet developed to facilitate student-teacher interaction and implement all the facilities for both!</p>
+    <a href="DuckHats.github.io/eduQuack">Ver Proyecto</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github.com/DuckHats/readme-palette/blob/main/eduQuack.jpg" alt="eduQuack" width="200px" style="border-radius: 50%;" />
+  </div>
+</div>
+
+
 ### 👽 Members
 <div align="center">
     <h3><a href="https://github.com/Gerijacki">Gerijacki</a></h3>
