@@ -34,40 +34,55 @@
 
 
 ### 👽 Members
-<div align="center">
+<!-- Sección de Miembros -->
+<!-- miembro 1 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
     <h3><a href="https://github.com/Gerijacki">Gerijacki</a></h3>
-    <a href="https://github.com/Gerijacki">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerijacki&theme=2077" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerijacki&theme=2077" height="180em" />
-    </a>
+    <p>Desenvolupador Web i programador.</p>
+    <a href="https://github.com/Gerijacki">Ver Perfil</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github.com/Gerijacki.png" alt="Gerijacki" width="200px" style="border-radius: 50%;" />
+  </div>
 </div>
 
-<div align="center">
+<!-- Proyecto 2 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
     <h3><a href="https://github.com/SergiGiribet">SergiGiribet</a></h3>
-    <a href="https://github.com/SergiGiribet">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergiGiribet&theme=radical" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergiGiribet&theme=radical" height="180em" />
-    </a>
+    <p>Desenvolupador Web i programador.</p>
+    <a href="https://github.com/SergiGiribet">Ver Perfil</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github.com/SergiGiribet.png" alt="SergiGiribet" width="200px" style="border-radius: 50%;" />
+  </div>
 </div>
 
-### 🛠 Tech Stack
-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### 🤝🏻 Connect with Us
-<p align="center">
-    <a href="https://DuckHats.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-www.DuckHats.github.io-blue?style=flat-square&logo=google-chrome"></a>
-    <a href="mailto:duck4hats@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duck4hats@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<!-- Enlaces a Redes Sociales -->
+<h3 align="center">Conéctate conmigo:</h3>
+<div align="center">
+  <a href="https://twitter.com/byjacki12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Gerijacki" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="MAILTO:AAA"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<!-- Lenguajes y Herramientas -->
+<h3 align="center">Lenguajes y Herramientas:</h3>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+
+</div>
 
 ⭐️ From [DuckHats](https://github.com/DuckHats)
