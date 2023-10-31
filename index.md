@@ -32,8 +32,7 @@
   </div>
 </div>
 
-### 👽 Members
-<!-- Sección de Miembros -->
+<h2 align="center">Members 👽 </h2>
 <!-- Sección de Miembros -->
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
 
