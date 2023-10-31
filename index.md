@@ -39,20 +39,20 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: right; padding-right: 20px;">
     <h3><a href="https://github.com/Gerijacki">Gerijacki</a></h3>
-    <p>Desenvolupador Web i programador.</p>
-    <a href="https://github.com/Gerijacki">Ver Perfil</a>
+    <p>Web developer and programmer.</p>
+    <a href="https://github.com/Gerijacki">Profile</a>
   </div>
   <div style="flex: 1;">
     <img src="https://github.com/Gerijacki.png" alt="Gerijacki" width="200px" style="border-radius: 50%;" />
   </div>
 </div>
 
-<!-- Proyecto 2 -->
+<!-- Miembro 2 -->
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: right; padding-right: 20px;">
     <h3><a href="https://github.com/SergiGiribet">SergiGiribet</a></h3>
-    <p>Desenvolupador Web i programador.</p>
-    <a href="https://github.com/SergiGiribet">Ver Perfil</a>
+    <p>Web developer and programmer.</p>
+    <a href="https://github.com/SergiGiribet">Profile</a>
   </div>
   <div style="flex: 1;">
     <img src="https://github.com/SergiGiribet.png" alt="SergiGiribet" width="200px" style="border-radius: 50%;" />
@@ -61,15 +61,14 @@
 
 
 <!-- Enlaces a Redes Sociales -->
-<h3 align="center">Conéctate conmigo:</h3>
+<h3 align="center">Connect with us:</h3>
 <div align="center">
-  <a href="https://twitter.com/byjacki12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Gerijacki" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="MAILTO:AAA"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/DuckHats" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="MAILTO:duck4hats@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <!-- Lenguajes y Herramientas -->
-<h3 align="center">Lenguajes y Herramientas:</h3>
+<h3 align="center">Languages ​​and Tools:</h3>
 <div align="center">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
