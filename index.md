@@ -33,31 +33,27 @@
 </div>
 
 
-### 👽 Members
 <!-- Sección de Miembros -->
-<!-- miembro 1 -->
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; text-align: right; padding-right: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+
+  <!-- Miembro 1 -->
+  <div style="text-align: center; margin: 20px;">
+    <img src="https://github.com/Gerijacki.png" alt="Gerijacki" width="200px" style="border-radius: 50%;" />
     <h3><a href="https://github.com/Gerijacki">Gerijacki</a></h3>
     <p>Web developer and programmer.</p>
     <a href="https://github.com/Gerijacki">Profile</a>
   </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/Gerijacki.png" alt="Gerijacki" width="200px" style="border-radius: 50%;" />
-  </div>
-</div>
 
-<!-- Miembro 2 -->
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; text-align: right; padding-right: 20px;">
+  <!-- Miembro 2 -->
+  <div style="text-align: center; margin: 20px;">
+    <img src="https://github.com/SergiGiribet.png" alt="SergiGiribet" width="200px" style="border-radius: 50%;" />
     <h3><a href="https://github.com/SergiGiribet">SergiGiribet</a></h3>
     <p>Web developer and programmer.</p>
     <a href="https://github.com/SergiGiribet">Profile</a>
   </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/SergiGiribet.png" alt="SergiGiribet" width="200px" style="border-radius: 50%;" />
-  </div>
+
 </div>
+
 
 
 <!-- Enlaces a Redes Sociales -->
