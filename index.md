@@ -40,7 +40,7 @@
   <div style="text-align: center; margin: 20px;">
     <img src="https://github.com/Gerijacki.png" alt="Gerijacki" width="200px" style="border-radius: 50%;" />
     <h3><a href="https://github.com/Gerijacki">Gerijacki</a></h3>
-    <p>Web developer and programmer.</p>
+    <p>Web developer, programmer and systems administrator.</p>
     <a href="https://github.com/Gerijacki">Profile</a>
   </div>
 
@@ -48,7 +48,7 @@
   <div style="text-align: center; margin: 20px;">
     <img src="https://github.com/SergiGiribet.png" alt="SergiGiribet" width="200px" style="border-radius: 50%;" />
     <h3><a href="https://github.com/SergiGiribet">SergiGiribet</a></h3>
-    <p>Web developer and programmer.</p>
+    <p>Web developer and programer.</p>
     <a href="https://github.com/SergiGiribet">Profile</a>
   </div>
 
