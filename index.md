@@ -27,7 +27,7 @@
     <a href="./eduQuack">Ver Proyecto</a>
   </div>
   <div style="flex: 1;">
-    <img src="./eduQuack.jpg" alt="eduQuack" width="200px" style="border-radius: 50%;" />
+    <img src="./img/eduQuack.jpg" alt="eduQuack" width="200px" style="border-radius: 50%;" />
 
   </div>
 </div>
@@ -40,7 +40,7 @@
     <a href="./Smash-Ginebro">Ver Proyecto</a>
   </div>
   <div style="flex: 1;">
-    <img src="./Smash-Ginebro.jpg" alt="eduQuack" width="200px" style="border-radius: 50%;" />
+    <img src="./img/Smash-Ginebro.jpg" alt="eduQuack" width="200px" style="border-radius: 50%;" />
 
   </div>
 </div>
