@@ -32,6 +32,19 @@
   </div>
 </div>
 
+<!-- Proyecto 2 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
+    <h3><a href="https://github.com/DuckHats/Smash-Ginebro">Smash Ginebró</a></h3>
+    <p>Project for the creation of a 2D pixel art fighting videogame.</p>
+    <a href="./Smash-Ginebro">Ver Proyecto</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="./eduQuack.jpg" alt="eduQuack" width="200px" style="border-radius: 50%;" />
+
+  </div>
+</div>
+
 <h2 align="center">Members 👽 </h2>
 <!-- Sección de Miembros -->
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
