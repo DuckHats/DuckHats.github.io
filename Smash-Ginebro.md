@@ -12,4 +12,6 @@ Descobreix el nostre primer videojoc, disfruta de frenetics combats entre profes
 ## Procés de creació ⚙️
 ---
 
+<iframe src="https://docs.google.com/presentation/d/1mzI7BA7KQFPVlWgc8RZQ5z3-zEUtRHqAtfq9RXIRVJc/edit#slide=id.p" width="600" height="400"></iframe>
+
 ¿Preguntes? Contacta'ns a [Duck4hats@gmail.com](mailto:duck4hats@gmail.com) o visita [DuckHats.github.io](https://DuckHats.github.com). Juguemi junts! 🌟
