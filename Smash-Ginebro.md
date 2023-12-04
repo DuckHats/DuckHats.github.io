@@ -11,6 +11,8 @@ Descobreix el nostre primer videojoc, disfruta de frenetics combats entre profes
 
 ## Procés de creació ⚙️
 ---
-
+<p align="center">
+  <iframe src="https://github.com/DuckHats/docs/Smash-Ginebró.pdf" width="600" height="400"></iframe>
+</p>
 
 ¿Preguntes? Contacta'ns a [Duck4hats@gmail.com](mailto:duck4hats@gmail.com) o visita [DuckHats.github.io](https://DuckHats.github.com). Juguemi junts! 🌟
