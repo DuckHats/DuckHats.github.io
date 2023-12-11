@@ -50,7 +50,7 @@
   <div style="flex: 1; text-align: right; padding-right: 20px;">
     <h3><a href="https://github.com/DuckHats/Scripting-Dashboard">Intranet</a></h3>
     <p>Project for the creation of an intranet, for the management of the network from meraki</p>
-    <a href="./Scripting-Dashboard">Ver Proyecto</a>
+    <a href="./Intranet">Ver Proyecto</a>
   </div>
   <div style="flex: 1;">
     <img src="./img/Intranet.jpg" alt="eduQuack" width="200px" style="border-radius: 50%;" />
