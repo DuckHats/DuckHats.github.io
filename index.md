@@ -48,7 +48,8 @@
 <!-- Proyecto 3 -->
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: right; padding-right: 20px;">
-    <h3><a href="https://github.com/DuckHats/Scripting-Dashboard">Intranet</a></h3>
+    <!-- <h3><a href="https://github.com/DuckHats/Scripting-Dashboard">Intranet</a></h3> -->
+    <h3><a>Intranet</a></h3>
     <p>Project for the creation of an intranet, for the management of the network from meraki</p>
     <a href="./Intranet">Ver Proyecto</a>
   </div>
