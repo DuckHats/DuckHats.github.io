@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://github.com/DuckHats.png" width="100" alt="Logo"/><br/>
-  Hola 👋, som <a href="https://github.com/DuckHats">DuckHats</a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/DuckHats/eduQuack/stargazers"><img src="https://img.shields.io/github/stars/DuckHats/eduQuack?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/DuckHats/eduQuack/contributors"><img src="https://img.shields.io/github/contributors/DuckHats/eduQuack?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+  Hi 👋, som <a href="https://github.com/DuckHats">DuckHats</a>
 </p>
 
 # Projecte: Scripts Meraki
