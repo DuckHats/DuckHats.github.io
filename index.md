@@ -22,7 +22,7 @@
 
 <!-- Banner Coming Soon -->
 <div align="center" style="margin: 20px;">
-  <h3>🚧 Project Coming Soon 🚧</h3>
+  <h3 style="color: red">🚧 Project Coming Soon 🚧</h3>
   <p>We're working hard on something amazing! Stay tuned for updates.</p>
 </div>
 
