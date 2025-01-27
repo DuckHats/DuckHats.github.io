@@ -27,31 +27,31 @@
 <h2 align="center">Members 👽 </h2>
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
 
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/Gerijacki.png" alt="Gerijacki" width="200px" style="border-radius: 50%;" />
+  <div style="text-align: center; margin: 15px;">
+    <img src="https://github.com/Gerijacki.png" alt="Gerijacki" width="180px" style="border-radius: 50%;" />
     <h3><a href="https://github.com/Gerijacki">Gerijacki</a></h3>
     <p>Backend developer and systems administrator.</p>
     <a href="https://github.com/Gerijacki">Profile</a>
   </div>
 
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/SergiGiribet.png" alt="SergiGiribet" width="200px" style="border-radius: 50%;" />
+  <div style="text-align: center; margin: 15px;">
+    <img src="https://github.com/SergiGiribet.png" alt="SergiGiribet" width="180px" style="border-radius: 50%;" />
     <h3><a href="https://github.com/SergiGiribet">SergiGiribet</a></h3>
     <p>Web developer and designer.</p>
     <a href="https://github.com/SergiGiribet">Profile</a>
   </div>
 
   <br>
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/fegaant04.png" alt="Fegaant04" width="200px" style="border-radius: 50%;" />
+
+  <div style="text-align: center; margin: 15px;">
+    <img src="https://github.com/fegaant04.png" alt="Fegaant04" width="180px" style="border-radius: 50%;" />
     <h3><a href="https://github.com/fegaant04">Fegaant04</a></h3>
     <p>Web designer and frontend programmer.</p>
     <a href="https://github.com/fegaant04">Profile</a>
   </div>
 
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/AClavijos.png" alt="AClavijos" width="200px" style="border-radius: 50%;" />
+  <div style="text-align: center; margin: 15px;">
+    <img src="https://github.com/AClavijos.png" alt="AClavijos" width="180px" style="border-radius: 50%;" />
     <h3><a href="https://github.com/AClavijos">AClavijos</a></h3>
     <p>Frontend developer.</p>
     <a href="https://github.com/AClavijos">Profile</a>
